@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background: #f4f4f4;
-    color: #014749;
+    color: #000000;
 }
 
 
@@ -48,4 +48,41 @@ h2 {
     color: #059797;
 }
 
+.sobre-conteudo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
 
+.sobre-conteudo .foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #010202;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+ul a {
+    color: #000202;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background: #0d5a5a;
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
