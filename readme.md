@@ -21,7 +21,7 @@ O site contém:
 
 ## Tecnologias Utilizadas
 
-- HTML5  
+- HTML  
 - CSS3  
 - JavaScript  
 
