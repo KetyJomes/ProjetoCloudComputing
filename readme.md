@@ -27,5 +27,10 @@ O site contém:
 
 ---
 
+## Acesse o projeto online
+
+[Clique aqui para visualizar o site](https://chimerical-dusk-07254d.netlify.app)
+
+
 
 
